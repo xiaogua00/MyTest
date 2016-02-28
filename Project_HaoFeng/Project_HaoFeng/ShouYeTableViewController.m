@@ -44,6 +44,7 @@
     [super viewDidLoad];
     _likenum = [[NSMutableArray alloc] init];
     _dataArray = [[NSMutableArray alloc] init];
+    NSLog(@"123456789");
     _i = 3;
     _j = 2;
     _str1 = @"model=homepage&page=10&imei=352204062246410&action=gjlist&appid=1&appversion=2.5.6&systemversion=18&appostype=1&to8to_token=&channel=sanliuling&version=2.5&";
