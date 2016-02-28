@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>img</key>
+		<string>sort_0_0</string>
+		<key>title</key>
+		<string>收房篇</string>
+	</dict>
+	<dict>
+		<key>img</key>
+		<string>sort_0_1</string>
+		<key>title</key>
+		<string>设计篇</string>
+	</dict>
+	<dict>
+		<key>img</key>
+		<string>sort_1_2</string>
+		<key>title</key>
+		<string>水电篇</string>
+	</dict>
+	<dict>
+		<key>img</key>
+		<string>sort_1_0</string>
+		<key>title</key>
+		<string>材料篇</string>
+	</dict>
+	<dict>
+		<key>img</key>
+		<string>sort_1_5</string>
+		<key>title</key>
+		<string>木工篇</string>
+	</dict>
+	<dict>
+		<key>img</key>
+		<string>sort_1_6</string>
+		<key>title</key>
+		<string>油漆篇</string>
+	</dict>
+	<dict>
+		<key>img</key>
+		<string>sort_1_7</string>
+		<key>title</key>
+		<string>地毯篇</string>
+	</dict>
+	<dict>
+		<key>img</key>
+		<string>sort_2_0</string>
+		<key>title</key>
+		<string>软装篇</string>
+	</dict>
+	<dict>
+		<key>img</key>
+		<string>sort_2_1</string>
+		<key>title</key>
+		<string>入住篇</string>
+	</dict>
+</array>
+</plist>
